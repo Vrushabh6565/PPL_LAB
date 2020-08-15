@@ -1,2 +1,1 @@
-<b>GCC  </b>
 In this assignment we learn about various aspects of gcc compiler.how to obtain dump files,gimple file
