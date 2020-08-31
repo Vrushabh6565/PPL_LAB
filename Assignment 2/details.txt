@@ -1,1 +1,7 @@
-
+1]Used save-temps command while compiling program which generate 4 files 
+  1.  *.o
+  2.  *.i
+  3.  *.s
+  4.  a.out
+  
+ 2] used objdump tool to read object file.
