@@ -1,1 +1,2 @@
-
+Use of PYGtk module for event handling.
+A mini calculator is developed using gtk module.
